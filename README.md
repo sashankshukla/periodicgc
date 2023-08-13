@@ -1,7 +1,3 @@
-Certainly! Here's a README for the reference-counted smart pointer system with a periodic garbage collector.
-
----
-
 ### Reference-Counted Smart Pointer with Periodic GC in C++
 
 This project implements a reference-counted smart pointer system in C++ with a periodic garbage collector (GC) that helps to automatically reclaim memory that is no longer in use. This kind of system ensures deterministic deallocation of memory and can be beneficial in contexts where manual memory management may be error-prone.
